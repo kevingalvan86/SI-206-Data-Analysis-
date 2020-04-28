@@ -102,6 +102,7 @@ def main():
     json.dumps(calc_dict)
     json.dumps(data_dict)
     with open("Calculation_File", "w") as f:
+        f.write("CALCULATIONS\n\n\n")
         json.dump(calc_dict, f, indent=3)
         f.write("\n\nData per Country\n\n")
         json.dump(data_dict, f, indent=3)
@@ -121,7 +122,6 @@ def main():
     plt.ylabel('Population')
     plt.xlabel('Regions')
     plt.title('Population per Region')
-    plt.show()
     plt.savefig('Population.png')
     index = np.arange(len(names))
     bar_width = 0.35
@@ -139,8 +139,6 @@ def main():
     plt.legend()
     plt.tight_layout()
     plt.savefig('COVID.png')
-    plt.show()
-
 
     
 
