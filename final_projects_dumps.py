@@ -1,6 +1,15 @@
+# Final Project: COVID-19 Data
+# name: Kevin Felipe Galvan
+# email:kevgal@umich.edu
+# name: Hiram Rodriguez
+# email: hiramr@umich.edu
+
+
 import json
 import sqlite3
-
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
 def main():
     conn = sqlite3.connect('Project.db') 
     c = conn.cursor() 
@@ -12,8 +21,6 @@ def main():
     data = c.fetchall()
     c.execute("SELECT Region.Name From Region")
     region_names = c.fetchall()
-    print(region_names)
-    print(data)
     data_dict = {}
     asia_pop = 0
     asia_cases = 0 
@@ -91,14 +98,49 @@ def main():
             calc_dict[tup[0]] = {"Population": africa_pop, "COVID-19 Cases" : africa_cases, "COVID-19 Deaths" : africa_deaths, "Google Trend Total": africa_trend}
         if tup[0] == 'Polar':
             calc_dict[tup[0]] = {"Population": polar_pop, "COVID-19 Cases" : polar_cases, "COVID-19 Deaths" : polar_deaths, "Google Trend Total": polar_trend}
-            
-    print(calc_dict)
-    json_calc = json.dumps(calc_dict)
-    json_country = json.dumps(data_dict)
+
+    json.dumps(calc_dict)
+    json.dumps(data_dict)
     with open("Calculation_File", "w") as f:
         json.dump(calc_dict, f, indent=3)
         f.write("\n\nData per Country\n\n")
         json.dump(data_dict, f, indent=3)
+    names = []
+    totals = []
+    cases = []
+    deaths = []
+    for region in region_names[:-1]:
+        print(calc_dict[region[0]])
+        names.append(region[0])
+        totals.append(calc_dict[region[0]]['Population'])
+        cases.append(calc_dict[region[0]]['COVID-19 Cases'])
+        deaths.append(calc_dict[region[0]]['COVID-19 Deaths'])
+    ypos = np.arange(len(names))
+    plt.bar(ypos, totals, align='center', alpha=0.5)
+    plt.xticks(ypos, names)
+    plt.ylabel('Population')
+    plt.xlabel('Regions')
+    plt.title('Population per Region')
+    plt.show()
+    plt.savefig('Population.png')
+    index = np.arange(len(names))
+    bar_width = 0.35
+    opacity = 0.8
+
+    plt.bar(index, cases, bar_width,
+    alpha=opacity, color='b', label='Cases')
+
+    plt.bar(index + bar_width, deaths, bar_width,
+    alpha=opacity,color='g',label='Deaths')
+    plt.xlabel('Region')
+    plt.ylabel('Amount of People')
+    plt.title('COVID-19 Data by Region')
+    plt.xticks(index + bar_width, names)
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig('COVID.png')
+    plt.show()
+
 
     
 

@@ -1,3 +1,8 @@
+# Final Project: COVID-19 Data
+# name: Kevin Felipe Galvan
+# email:kevgal@umich.edu
+# name: Hiram Rodriguez
+# email: hiramr@umich.edu
 import requests
 import json
 import sqlite3
@@ -119,7 +124,6 @@ def main():
             r_id = c.fetchone()[0]
             confirmed = country['TotalConfirmed']
             deaths = country['TotalDeaths']
-            print(c_id, r_id, confirmed, deaths)
             c.execute('''INSERT OR IGNORE INTO Covid (Cases, Deaths, Country, Region) Values (?,?,?,?)''', (confirmed, deaths, c_id, r_id))
             conn.commit()
             count += 1
