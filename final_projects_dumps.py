@@ -124,6 +124,7 @@ def main():
     plt.title('Population per Region')
     plt.savefig('Population.png')
     index = np.arange(len(names))
+    fig, ax = plt.subplots()
     bar_width = 0.35
     opacity = 0.8
 
