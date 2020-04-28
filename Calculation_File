@@ -1,0 +1,1219 @@
+{
+   "Asia": {
+      "Population": 4025055543,
+      "COVID-19 Cases": 358442,
+      "COVID-19 Deaths": 11030,
+      "Google Trend Total": 388
+   },
+   "Europe": {
+      "Population": 513511947,
+      "COVID-19 Cases": 1015073,
+      "COVID-19 Deaths": 98674,
+      "Google Trend Total": 358
+   },
+   "Africa": {
+      "Population": 1015415935,
+      "COVID-19 Cases": 28163,
+      "COVID-19 Deaths": 1315,
+      "Google Trend Total": 1079
+   },
+   "Oceania": {
+      "Population": 40055231,
+      "COVID-19 Cases": 8190,
+      "COVID-19 Deaths": 98,
+      "Google Trend Total": 348
+   },
+   "Americas": {
+      "Population": 622138194,
+      "COVID-19 Cases": 204860,
+      "COVID-19 Deaths": 10418,
+      "Google Trend Total": 654
+   },
+   "Polar": {
+      "Population": 1000,
+      "COVID-19 Cases": 0,
+      "COVID-19 Deaths": 0,
+      "Google Trend Total": 0
+   }
+}
+
+Data per Country
+
+{
+   "Asia": {
+      "Afghanistan": {
+         "Cases": 1463,
+         "Deaths": 47,
+         "Population": 27657145,
+         "Google Trend": 10
+      },
+      "Armenia": {
+         "Cases": 1677,
+         "Deaths": 28,
+         "Population": 2994400,
+         "Google Trend": 12
+      },
+      "Azerbaijan": {
+         "Cases": 1617,
+         "Deaths": 21,
+         "Population": 9730500,
+         "Google Trend": 5
+      },
+      "Bahrain": {
+         "Cases": 2588,
+         "Deaths": 8,
+         "Population": 1404900,
+         "Google Trend": 11
+      },
+      "Bangladesh": {
+         "Cases": 4998,
+         "Deaths": 140,
+         "Population": 161006790,
+         "Google Trend": 12
+      },
+      "Bhutan": {
+         "Cases": 7,
+         "Deaths": 0,
+         "Population": 775620,
+         "Google Trend": 27
+      },
+      "Cambodia": {
+         "Cases": 122,
+         "Deaths": 0,
+         "Population": 15626444,
+         "Google Trend": 11
+      },
+      "China": {
+         "Cases": 83909,
+         "Deaths": 4636,
+         "Population": 1377422166,
+         "Google Trend": 10
+      },
+      "Georgia": {
+         "Cases": 456,
+         "Deaths": 5,
+         "Population": 3720400,
+         "Google Trend": 8
+      },
+      "India": {
+         "Cases": 26283,
+         "Deaths": 825,
+         "Population": 1295210000,
+         "Google Trend": 10
+      },
+      "Indonesia": {
+         "Cases": 8607,
+         "Deaths": 720,
+         "Population": 258705000,
+         "Google Trend": 15
+      },
+      "Iraq": {
+         "Cases": 1763,
+         "Deaths": 86,
+         "Population": 37883543,
+         "Google Trend": 2
+      },
+      "Israel": {
+         "Cases": 15298,
+         "Deaths": 199,
+         "Population": 8527400,
+         "Google Trend": 3
+      },
+      "Japan": {
+         "Cases": 13231,
+         "Deaths": 360,
+         "Population": 126960000,
+         "Google Trend": 2
+      },
+      "Jordan": {
+         "Cases": 444,
+         "Deaths": 7,
+         "Population": 9531712,
+         "Google Trend": 3
+      },
+      "Kazakhstan": {
+         "Cases": 2601,
+         "Deaths": 25,
+         "Population": 17753200,
+         "Google Trend": 5
+      },
+      "Kuwait": {
+         "Cases": 2892,
+         "Deaths": 19,
+         "Population": 4183658,
+         "Google Trend": 6
+      },
+      "Kyrgyzstan": {
+         "Cases": 665,
+         "Deaths": 8,
+         "Population": 6047800,
+         "Google Trend": 8
+      },
+      "Lebanon": {
+         "Cases": 704,
+         "Deaths": 24,
+         "Population": 5988000,
+         "Google Trend": 6
+      },
+      "Malaysia": {
+         "Cases": 5742,
+         "Deaths": 98,
+         "Population": 31405416,
+         "Google Trend": 18
+      },
+      "Maldives": {
+         "Cases": 177,
+         "Deaths": 0,
+         "Population": 344023,
+         "Google Trend": 18
+      },
+      "Mongolia": {
+         "Cases": 37,
+         "Deaths": 0,
+         "Population": 3093100,
+         "Google Trend": 7
+      },
+      "Nepal": {
+         "Cases": 49,
+         "Deaths": 0,
+         "Population": 28431500,
+         "Google Trend": 18
+      },
+      "Oman": {
+         "Cases": 1905,
+         "Deaths": 10,
+         "Population": 4420133,
+         "Google Trend": 12
+      },
+      "Pakistan": {
+         "Cases": 12723,
+         "Deaths": 269,
+         "Population": 194125062,
+         "Google Trend": 6
+      },
+      "Philippines": {
+         "Cases": 7294,
+         "Deaths": 494,
+         "Population": 103279800,
+         "Google Trend": 13
+      },
+      "Qatar": {
+         "Cases": 9358,
+         "Deaths": 10,
+         "Population": 2587564,
+         "Google Trend": 16
+      },
+      "Saudi Arabia": {
+         "Cases": 16299,
+         "Deaths": 136,
+         "Population": 32248200,
+         "Google Trend": 7
+      },
+      "Singapore": {
+         "Cases": 12693,
+         "Deaths": 12,
+         "Population": 5535000,
+         "Google Trend": 32
+      },
+      "Sri Lanka": {
+         "Cases": 460,
+         "Deaths": 7,
+         "Population": 20966000,
+         "Google Trend": 5
+      },
+      "Tajikistan": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 8593600,
+         "Google Trend": 11
+      },
+      "Thailand": {
+         "Cases": 2907,
+         "Deaths": 51,
+         "Population": 65327652,
+         "Google Trend": 4
+      },
+      "Timor-Leste": {
+         "Cases": 24,
+         "Deaths": 0,
+         "Population": 1167242,
+         "Google Trend": 19
+      },
+      "Turkey": {
+         "Cases": 107773,
+         "Deaths": 2706,
+         "Population": 78741053,
+         "Google Trend": 2
+      },
+      "Turkmenistan": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 4751120,
+         "Google Trend": 7
+      },
+      "United Arab Emirates": {
+         "Cases": 9813,
+         "Deaths": 71,
+         "Population": 9856000,
+         "Google Trend": 13
+      },
+      "Uzbekistan": {
+         "Cases": 1862,
+         "Deaths": 8,
+         "Population": 31576400,
+         "Google Trend": 12
+      },
+      "Yemen": {
+         "Cases": 1,
+         "Deaths": 0,
+         "Population": 27478000,
+         "Google Trend": 2
+      }
+   },
+   "Europe": {
+      "Albania": {
+         "Cases": 712,
+         "Deaths": 27,
+         "Population": 2886026,
+         "Google Trend": 9
+      },
+      "Andorra": {
+         "Cases": 738,
+         "Deaths": 40,
+         "Population": 78014,
+         "Google Trend": 12
+      },
+      "Austria": {
+         "Cases": 15148,
+         "Deaths": 536,
+         "Population": 8725931,
+         "Google Trend": 6
+      },
+      "Belarus": {
+         "Cases": 9590,
+         "Deaths": 67,
+         "Population": 9498700,
+         "Google Trend": 7
+      },
+      "Belgium": {
+         "Cases": 45325,
+         "Deaths": 6917,
+         "Population": 11319511,
+         "Google Trend": 7
+      },
+      "Bulgaria": {
+         "Cases": 1247,
+         "Deaths": 55,
+         "Population": 7153784,
+         "Google Trend": 5
+      },
+      "Croatia": {
+         "Cases": 2016,
+         "Deaths": 54,
+         "Population": 4190669,
+         "Google Trend": 4
+      },
+      "Cyprus": {
+         "Cases": 810,
+         "Deaths": 14,
+         "Population": 847000,
+         "Google Trend": 6
+      },
+      "Denmark": {
+         "Cases": 8643,
+         "Deaths": 418,
+         "Population": 5717014,
+         "Google Trend": 7
+      },
+      "Estonia": {
+         "Cases": 1635,
+         "Deaths": 46,
+         "Population": 1315944,
+         "Google Trend": 7
+      },
+      "Faroe Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 49376,
+         "Google Trend": 10
+      },
+      "Finland": {
+         "Cases": 4475,
+         "Deaths": 186,
+         "Population": 5491817,
+         "Google Trend": 7
+      },
+      "France": {
+         "Cases": 161644,
+         "Deaths": 22648,
+         "Population": 66710000,
+         "Google Trend": 6
+      },
+      "Germany": {
+         "Cases": 156513,
+         "Deaths": 5877,
+         "Population": 81770900,
+         "Google Trend": 6
+      },
+      "Gibraltar": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 33140,
+         "Google Trend": 11
+      },
+      "Greece": {
+         "Cases": 2506,
+         "Deaths": 130,
+         "Population": 10858018,
+         "Google Trend": 4
+      },
+      "Guernsey": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 62999,
+         "Google Trend": 17
+      },
+      "Hungary": {
+         "Cases": 2443,
+         "Deaths": 262,
+         "Population": 9823000,
+         "Google Trend": 4
+      },
+      "Iceland": {
+         "Cases": 1790,
+         "Deaths": 10,
+         "Population": 334300,
+         "Google Trend": 17
+      },
+      "Ireland": {
+         "Cases": 18561,
+         "Deaths": 1063,
+         "Population": 6378000,
+         "Google Trend": 14
+      },
+      "Isle of Man": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 84497,
+         "Google Trend": 12
+      },
+      "Italy": {
+         "Cases": 195351,
+         "Deaths": 26384,
+         "Population": 60665551,
+         "Google Trend": 7
+      },
+      "Jersey": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 100800,
+         "Google Trend": 13
+      },
+      "Latvia": {
+         "Cases": 804,
+         "Deaths": 12,
+         "Population": 1961600,
+         "Google Trend": 18
+      },
+      "Liechtenstein": {
+         "Cases": 81,
+         "Deaths": 1,
+         "Population": 37623,
+         "Google Trend": 6
+      },
+      "Lithuania": {
+         "Cases": 1426,
+         "Deaths": 41,
+         "Population": 2872294,
+         "Google Trend": 7
+      },
+      "Luxembourg": {
+         "Cases": 3711,
+         "Deaths": 85,
+         "Population": 576200,
+         "Google Trend": 11
+      },
+      "Malta": {
+         "Cases": 448,
+         "Deaths": 4,
+         "Population": 425384,
+         "Google Trend": 8
+      },
+      "Monaco": {
+         "Cases": 94,
+         "Deaths": 4,
+         "Population": 38400,
+         "Google Trend": 0
+      },
+      "Montenegro": {
+         "Cases": 320,
+         "Deaths": 6,
+         "Population": 621810,
+         "Google Trend": 3
+      },
+      "Netherlands": {
+         "Cases": 37384,
+         "Deaths": 4424,
+         "Population": 17019800,
+         "Google Trend": 5
+      },
+      "Norway": {
+         "Cases": 7499,
+         "Deaths": 201,
+         "Population": 5223256,
+         "Google Trend": 6
+      },
+      "Poland": {
+         "Cases": 11273,
+         "Deaths": 524,
+         "Population": 38437239,
+         "Google Trend": 5
+      },
+      "Portugal": {
+         "Cases": 23392,
+         "Deaths": 880,
+         "Population": 10374822,
+         "Google Trend": 23
+      },
+      "Romania": {
+         "Cases": 10635,
+         "Deaths": 601,
+         "Population": 19861408,
+         "Google Trend": 13
+      },
+      "San Marino": {
+         "Cases": 513,
+         "Deaths": 40,
+         "Population": 33005,
+         "Google Trend": 9
+      },
+      "Serbia": {
+         "Cases": 6630,
+         "Deaths": 125,
+         "Population": 7076372,
+         "Google Trend": 4
+      },
+      "Slovakia": {
+         "Cases": 1373,
+         "Deaths": 17,
+         "Population": 5426252,
+         "Google Trend": 4
+      },
+      "Slovenia": {
+         "Cases": 1388,
+         "Deaths": 81,
+         "Population": 2064188,
+         "Google Trend": 7
+      },
+      "Spain": {
+         "Cases": 223759,
+         "Deaths": 22902,
+         "Population": 46438422,
+         "Google Trend": 11
+      },
+      "Sweden": {
+         "Cases": 18177,
+         "Deaths": 2192,
+         "Population": 9894888,
+         "Google Trend": 7
+      },
+      "Switzerland": {
+         "Cases": 28894,
+         "Deaths": 1599,
+         "Population": 8341600,
+         "Google Trend": 8
+      },
+      "Ukraine": {
+         "Cases": 8125,
+         "Deaths": 201,
+         "Population": 42692393,
+         "Google Trend": 5
+      }
+   },
+   "Africa": {
+      "Algeria": {
+         "Cases": 3256,
+         "Deaths": 419,
+         "Population": 40400000,
+         "Google Trend": 4
+      },
+      "Angola": {
+         "Cases": 25,
+         "Deaths": 2,
+         "Population": 25868000,
+         "Google Trend": 70
+      },
+      "Benin": {
+         "Cases": 54,
+         "Deaths": 1,
+         "Population": 10653654,
+         "Google Trend": 20
+      },
+      "Botswana": {
+         "Cases": 22,
+         "Deaths": 1,
+         "Population": 2141206,
+         "Google Trend": 22
+      },
+      "British Indian Ocean Territory": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 3000,
+         "Google Trend": 0
+      },
+      "Burkina Faso": {
+         "Cases": 629,
+         "Deaths": 41,
+         "Population": 19034397,
+         "Google Trend": 20
+      },
+      "Burundi": {
+         "Cases": 11,
+         "Deaths": 1,
+         "Population": 10114505,
+         "Google Trend": 23
+      },
+      "Cameroon": {
+         "Cases": 1518,
+         "Deaths": 53,
+         "Population": 22709892,
+         "Google Trend": 19
+      },
+      "Central African Republic": {
+         "Cases": 16,
+         "Deaths": 0,
+         "Population": 4998000,
+         "Google Trend": 23
+      },
+      "Chad": {
+         "Cases": 46,
+         "Deaths": 0,
+         "Population": 14497000,
+         "Google Trend": 27
+      },
+      "Comoros": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 806153,
+         "Google Trend": 37
+      },
+      "Djibouti": {
+         "Cases": 1008,
+         "Deaths": 2,
+         "Population": 900000,
+         "Google Trend": 13
+      },
+      "Egypt": {
+         "Cases": 4319,
+         "Deaths": 307,
+         "Population": 91290000,
+         "Google Trend": 4
+      },
+      "Equatorial Guinea": {
+         "Cases": 258,
+         "Deaths": 1,
+         "Population": 1222442,
+         "Google Trend": 23
+      },
+      "Eritrea": {
+         "Cases": 39,
+         "Deaths": 0,
+         "Population": 5352000,
+         "Google Trend": 46
+      },
+      "Ethiopia": {
+         "Cases": 122,
+         "Deaths": 3,
+         "Population": 92206005,
+         "Google Trend": 35
+      },
+      "French Southern Territories": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 140,
+         "Google Trend": 0
+      },
+      "Gabon": {
+         "Cases": 176,
+         "Deaths": 3,
+         "Population": 1802278,
+         "Google Trend": 22
+      },
+      "Gambia": {
+         "Cases": 10,
+         "Deaths": 1,
+         "Population": 1882450,
+         "Google Trend": 20
+      },
+      "Ghana": {
+         "Cases": 1279,
+         "Deaths": 10,
+         "Population": 27670174,
+         "Google Trend": 31
+      },
+      "Guinea": {
+         "Cases": 996,
+         "Deaths": 7,
+         "Population": 12947000,
+         "Google Trend": 19
+      },
+      "Guinea-Bissau": {
+         "Cases": 52,
+         "Deaths": 0,
+         "Population": 1547777,
+         "Google Trend": 72
+      },
+      "Kenya": {
+         "Cases": 343,
+         "Deaths": 14,
+         "Population": 47251000,
+         "Google Trend": 19
+      },
+      "Lesotho": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 1894194,
+         "Google Trend": 20
+      },
+      "Liberia": {
+         "Cases": 120,
+         "Deaths": 11,
+         "Population": 4615000,
+         "Google Trend": 39
+      },
+      "Libya": {
+         "Cases": 61,
+         "Deaths": 2,
+         "Population": 6385000,
+         "Google Trend": 5
+      },
+      "Madagascar": {
+         "Cases": 123,
+         "Deaths": 0,
+         "Population": 22434363,
+         "Google Trend": 9
+      },
+      "Malawi": {
+         "Cases": 33,
+         "Deaths": 3,
+         "Population": 16832910,
+         "Google Trend": 16
+      },
+      "Mali": {
+         "Cases": 370,
+         "Deaths": 21,
+         "Population": 18135000,
+         "Google Trend": 17
+      },
+      "Mauritania": {
+         "Cases": 7,
+         "Deaths": 1,
+         "Population": 3718678,
+         "Google Trend": 7
+      },
+      "Mauritius": {
+         "Cases": 331,
+         "Deaths": 9,
+         "Population": 1262879,
+         "Google Trend": 13
+      },
+      "Mayotte": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 226915,
+         "Google Trend": 4
+      },
+      "Morocco": {
+         "Cases": 3897,
+         "Deaths": 159,
+         "Population": 33337529,
+         "Google Trend": 5
+      },
+      "Mozambique": {
+         "Cases": 70,
+         "Deaths": 0,
+         "Population": 26423700,
+         "Google Trend": 20
+      },
+      "Namibia": {
+         "Cases": 16,
+         "Deaths": 0,
+         "Population": 2324388,
+         "Google Trend": 23
+      },
+      "Niger": {
+         "Cases": 684,
+         "Deaths": 27,
+         "Population": 20715000,
+         "Google Trend": 24
+      },
+      "Nigeria": {
+         "Cases": 1182,
+         "Deaths": 35,
+         "Population": 186988000,
+         "Google Trend": 20
+      },
+      "Rwanda": {
+         "Cases": 183,
+         "Deaths": 0,
+         "Population": 11553188,
+         "Google Trend": 25
+      },
+      "Senegal": {
+         "Cases": 614,
+         "Deaths": 7,
+         "Population": 14799859,
+         "Google Trend": 12
+      },
+      "Seychelles": {
+         "Cases": 11,
+         "Deaths": 0,
+         "Population": 91400,
+         "Google Trend": 15
+      },
+      "Sierra Leone": {
+         "Cases": 82,
+         "Deaths": 2,
+         "Population": 7075641,
+         "Google Trend": 31
+      },
+      "Somalia": {
+         "Cases": 390,
+         "Deaths": 18,
+         "Population": 11079000,
+         "Google Trend": 12
+      },
+      "South Africa": {
+         "Cases": 4361,
+         "Deaths": 86,
+         "Population": 55653654,
+         "Google Trend": 20
+      },
+      "South Sudan": {
+         "Cases": 5,
+         "Deaths": 0,
+         "Population": 12131000,
+         "Google Trend": 37
+      },
+      "Sudan": {
+         "Cases": 213,
+         "Deaths": 17,
+         "Population": 39598700,
+         "Google Trend": 2
+      },
+      "Togo": {
+         "Cases": 96,
+         "Deaths": 6,
+         "Population": 7143000,
+         "Google Trend": 41
+      },
+      "Tunisia": {
+         "Cases": 939,
+         "Deaths": 38,
+         "Population": 11154400,
+         "Google Trend": 5
+      },
+      "Uganda": {
+         "Cases": 75,
+         "Deaths": 0,
+         "Population": 33860700,
+         "Google Trend": 45
+      },
+      "Western Sahara": {
+         "Cases": 6,
+         "Deaths": 0,
+         "Population": 510713,
+         "Google Trend": 16
+      },
+      "Zambia": {
+         "Cases": 84,
+         "Deaths": 3,
+         "Population": 15933883,
+         "Google Trend": 17
+      },
+      "Zimbabwe": {
+         "Cases": 31,
+         "Deaths": 4,
+         "Population": 14240168,
+         "Google Trend": 10
+      }
+   },
+   "Oceania": {
+      "American Samoa": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 57100,
+         "Google Trend": 15
+      },
+      "Australia": {
+         "Cases": 6694,
+         "Deaths": 80,
+         "Population": 24117360,
+         "Google Trend": 17
+      },
+      "Christmas Island": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 2072,
+         "Google Trend": 0
+      },
+      "Cocos (Keeling) Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 550,
+         "Google Trend": 0
+      },
+      "Cook Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 18100,
+         "Google Trend": 29
+      },
+      "Fiji": {
+         "Cases": 18,
+         "Deaths": 0,
+         "Population": 867000,
+         "Google Trend": 16
+      },
+      "French Polynesia": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 271800,
+         "Google Trend": 5
+      },
+      "Guam": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 184200,
+         "Google Trend": 19
+      },
+      "Kiribati": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 113400,
+         "Google Trend": 0
+      },
+      "Marshall Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 54880,
+         "Google Trend": 22
+      },
+      "Nauru": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 10084,
+         "Google Trend": 0
+      },
+      "New Caledonia": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 268767,
+         "Google Trend": 5
+      },
+      "New Zealand": {
+         "Cases": 1470,
+         "Deaths": 18,
+         "Population": 4697854,
+         "Google Trend": 26
+      },
+      "Niue": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 1470,
+         "Google Trend": 0
+      },
+      "Norfolk Island": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 2302,
+         "Google Trend": 0
+      },
+      "Northern Mariana Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 56940,
+         "Google Trend": 25
+      },
+      "Palau": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 17950,
+         "Google Trend": 33
+      },
+      "Papua New Guinea": {
+         "Cases": 8,
+         "Deaths": 0,
+         "Population": 8083700,
+         "Google Trend": 38
+      },
+      "Samoa": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 194899,
+         "Google Trend": 9
+      },
+      "Solomon Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 642000,
+         "Google Trend": 34
+      },
+      "Tokelau": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 1411,
+         "Google Trend": 0
+      },
+      "Tonga": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 103252,
+         "Google Trend": 21
+      },
+      "Tuvalu": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 10640,
+         "Google Trend": 0
+      },
+      "Vanuatu": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 277500,
+         "Google Trend": 34
+      }
+   },
+   "Americas": {
+      "Anguilla": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 13452,
+         "Google Trend": 0
+      },
+      "Argentina": {
+         "Cases": 3780,
+         "Deaths": 185,
+         "Population": 43590400,
+         "Google Trend": 8
+      },
+      "Aruba": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 107394,
+         "Google Trend": 17
+      },
+      "Bahamas": {
+         "Cases": 78,
+         "Deaths": 11,
+         "Population": 378040,
+         "Google Trend": 12
+      },
+      "Barbados": {
+         "Cases": 79,
+         "Deaths": 6,
+         "Population": 285000,
+         "Google Trend": 25
+      },
+      "Belize": {
+         "Cases": 18,
+         "Deaths": 2,
+         "Population": 370300,
+         "Google Trend": 22
+      },
+      "Bermuda": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 61954,
+         "Google Trend": 31
+      },
+      "Brazil": {
+         "Cases": 59324,
+         "Deaths": 4057,
+         "Population": 206135893,
+         "Google Trend": 10
+      },
+      "Canada": {
+         "Cases": 45491,
+         "Deaths": 2546,
+         "Population": 36155487,
+         "Google Trend": 39
+      },
+      "Cayman Islands": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 58238,
+         "Google Trend": 20
+      },
+      "Chile": {
+         "Cases": 12858,
+         "Deaths": 181,
+         "Population": 18191900,
+         "Google Trend": 12
+      },
+      "Colombia": {
+         "Cases": 5142,
+         "Deaths": 233,
+         "Population": 48759958,
+         "Google Trend": 13
+      },
+      "Costa Rica": {
+         "Cases": 693,
+         "Deaths": 6,
+         "Population": 4890379,
+         "Google Trend": 16
+      },
+      "Cuba": {
+         "Cases": 1337,
+         "Deaths": 51,
+         "Population": 11239004,
+         "Google Trend": 100
+      },
+      "Dominica": {
+         "Cases": 16,
+         "Deaths": 0,
+         "Population": 71293,
+         "Google Trend": 21
+      },
+      "Dominican Republic": {
+         "Cases": 5926,
+         "Deaths": 273,
+         "Population": 10075045,
+         "Google Trend": 11
+      },
+      "Ecuador": {
+         "Cases": 22719,
+         "Deaths": 576,
+         "Population": 16545799,
+         "Google Trend": 10
+      },
+      "El Salvador": {
+         "Cases": 274,
+         "Deaths": 8,
+         "Population": 6520675,
+         "Google Trend": 39
+      },
+      "French Guiana": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 254541,
+         "Google Trend": 3
+      },
+      "Greenland": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 55847,
+         "Google Trend": 13
+      },
+      "Grenada": {
+         "Cases": 18,
+         "Deaths": 0,
+         "Population": 103328,
+         "Google Trend": 21
+      },
+      "Guadeloupe": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 400132,
+         "Google Trend": 3
+      },
+      "Guatemala": {
+         "Cases": 473,
+         "Deaths": 13,
+         "Population": 16176133,
+         "Google Trend": 15
+      },
+      "Guyana": {
+         "Cases": 73,
+         "Deaths": 7,
+         "Population": 746900,
+         "Google Trend": 9
+      },
+      "Haiti": {
+         "Cases": 72,
+         "Deaths": 6,
+         "Population": 11078033,
+         "Google Trend": 20
+      },
+      "Honduras": {
+         "Cases": 627,
+         "Deaths": 59,
+         "Population": 8576532,
+         "Google Trend": 19
+      },
+      "Jamaica": {
+         "Cases": 305,
+         "Deaths": 7,
+         "Population": 2723246,
+         "Google Trend": 16
+      },
+      "Martinique": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 378243,
+         "Google Trend": 7
+      },
+      "Mexico": {
+         "Cases": 13842,
+         "Deaths": 1305,
+         "Population": 122273473,
+         "Google Trend": 13
+      },
+      "Montserrat": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 4922,
+         "Google Trend": 0
+      },
+      "Nicaragua": {
+         "Cases": 12,
+         "Deaths": 3,
+         "Population": 6262703,
+         "Google Trend": 10
+      },
+      "Panama": {
+         "Cases": 5538,
+         "Deaths": 159,
+         "Population": 3814672,
+         "Google Trend": 19
+      },
+      "Paraguay": {
+         "Cases": 228,
+         "Deaths": 9,
+         "Population": 6854536,
+         "Google Trend": 19
+      },
+      "Peru": {
+         "Cases": 25331,
+         "Deaths": 700,
+         "Population": 31488700,
+         "Google Trend": 14
+      },
+      "Puerto Rico": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 3474182,
+         "Google Trend": 14
+      },
+      "Suriname": {
+         "Cases": 10,
+         "Deaths": 1,
+         "Population": 541638,
+         "Google Trend": 25
+      },
+      "Uruguay": {
+         "Cases": 596,
+         "Deaths": 14,
+         "Population": 3480222,
+         "Google Trend": 8
+      }
+   },
+   "Polar": {
+      "Antarctica": {
+         "Cases": 0,
+         "Deaths": 0,
+         "Population": 1000,
+         "Google Trend": 0
+      }
+   }
+}
